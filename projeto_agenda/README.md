@@ -1,16 +1,12 @@
 # projeto_agenda
 
-A new Flutter project.
+Projeto Agenda Concluidoi.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Este projeto,, faz parte de um aprendizado em flutter, na criação de um app agenda:
+Nele é possível, adicionar ecluir tarefas, de forma fácil e rápida.
+Todos os dadosl salvos, são armazenados no proprio app, utilizando shred preferences
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Projeto produzido para rodar em quase todas versões do Android, porem somente testada no Android 8.0 Oreon
+Projeto finalizado em 08/01/2021 : 22:06
